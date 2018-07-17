@@ -20,3 +20,13 @@
 **Thoughts:** I only coded on FCC and I will continue on it tomorrow and study some of the React Course.
 
 **Link to work:** [FCC](https://learn.freecodecamp.org/)
+
+
+
+### Day 3: 16/07/2018 (at mid-night) 
+
+**Today's Progress**:  Completed the "CSS Flexbox" and "CSS Grid" sections and the "Landing Page" project at FCC.
+
+**Thoughts:** Just coded at FCC and their 3rd project and made 2 summaries for the Flexbox and Grid systems.
+
+**Link to work:** [FCC](https://learn.freecodecamp.org/)
