@@ -30,3 +30,13 @@
 **Thoughts:** Just coded at FCC and their 3rd project and made 2 summaries for the Flexbox and Grid systems.
 
 **Link to work:** [FCC](https://learn.freecodecamp.org/)
+
+
+
+### Day 4: 17/07/2018 (at mid-night) 
+
+**Today's Progress**:  Finished the last 2 projects of the "Responsive Web Design" certification and got the cert
+
+**Thoughts:** I've coded a lot, but a lot of wasted time too. Btw I'm jubilant that I've got my first cert at FCC and I'm planning to start the cert of the front-end libraries as I want to learn React well.
+
+**Link to work:** [Certification](https://www.freecodecamp.org/certification/lartwel/responsive-web-design)
