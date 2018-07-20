@@ -47,6 +47,6 @@
 
 **Today's Progress**:  Finished the "SASS" section at FCC and started in the "React" section and listened to my 1st episode at Syntax.fm
 
-**Thoughts:** I've been busy due to some house works and it seems that the next few weeks will be busy because of the same reason, but I'll do my best to practice coding though. I've also slistend to the Syntax podcast's episode called "How to slam dunk your freelancing" and I didn't get much benefit from it, but there's another episode called "Advice For Beginners" and I think it'll be much benificial  to me
+**Thoughts:** I've been busy due to some house works and it seems that the next few weeks will be busy because of the same reason, but I'll do my best to practice coding though. I've also listened to the Syntax podcast's episode called "How to slam dunk your freelancing" and I didn't get much benefit from it, but there's another episode called "Advice For Beginners" and I think it'll be much beneficial  to me.
 
 **Link to work:** [FCC](https://www.freecodecamp.org/), [Syntaxt.fm](https://syntax.fm)
