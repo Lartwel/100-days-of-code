@@ -50,3 +50,13 @@
 **Thoughts:** I've been busy due to some house works and it seems that the next few weeks will be busy because of the same reason, but I'll do my best to practice coding though. I've also listened to the Syntax podcast's episode called "How to slam dunk your freelancing" and I didn't get much benefit from it, but there's another episode called "Advice For Beginners" and I think it'll be much beneficial  to me.
 
 **Link to work:** [FCC](https://www.freecodecamp.org/), [Syntaxt.fm](https://syntax.fm)
+
+
+
+### Days 7-10: 23/07/2018
+
+**Today's Progress**:  Finished the "React" section at FCC
+
+**Thoughts:** It was a long section there, but it was really helpful. I learned a lot about React. And I am going to start in the "Redux" section and google some React apps to build one as a practice
+
+**Link to work:** [FCC](https://www.freecodecamp.org/)
