@@ -55,8 +55,8 @@
 
 ### Days 7-10: 23/07/2018
 
-**Today's Progress**:  Finished the "React" section at FCC
+**Today's Progress**:  Finished the "React" section at FCC and read 2 articles at JavaScript.info
 
-**Thoughts:** It was a long section there, but it was really helpful. I learned a lot about React. And I am going to start in the "Redux" section and google some React apps to build one as a practice
+**Thoughts:** It was a long section there, but it was really helpful. I learned a lot about React. And I am going to start in the "Redux" section and google some React apps to build one as a practice. I also read 2 articles "Debugging in Chrome" & "Ninja code" at javascript.info and they were really helpful. The website has great tutorials for JavaScript
 
-**Link to work:** [FCC](https://www.freecodecamp.org/)
+**Link to work:** [FCC](https://www.freecodecamp.org/)   [JavaScript.info](http://javascript.info/)
