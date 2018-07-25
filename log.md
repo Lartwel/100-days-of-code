@@ -60,3 +60,15 @@
 **Thoughts:** It was a long section there, but it was really helpful. I learned a lot about React. And I am going to start in the "Redux" section and google some React apps to build one as a practice. I also read 2 articles "Debugging in Chrome" & "Ninja code" at javascript.info and they were informative. The website has great tutorials for JavaScript
 
 **Link to work:** [FCC](https://www.freecodecamp.org/)   [JavaScript.info](http://javascript.info/)
+
+
+
+### Day 11: 24/07/2018 
+
+**Today's Progress**:  Studied throw the [JavaScript30](https://javascript30.com) tutorials and built the first project "JS Drums" and read for some time at Medium
+
+**Thoughts:** The 1st project of JS30 was beneficial and easy and I've made a GitHub repo for the projects I am building that are bases on the tutorials.
+
+**Link to work:** [JS30 Repo](https://github.com/Lartwel/JavaScript30) , [Medium](https://medium.com/)
+
+
