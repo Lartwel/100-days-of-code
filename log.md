@@ -72,3 +72,23 @@
 **Link to work:** [JS30 Repo](https://github.com/Lartwel/JavaScript30) , [Medium](https://medium.com/)
 
 
+
+### Day 12: 25/07/2018 
+
+**Today's Progress**:  Studied throw the [JavaScript30](https://javascript30.com) tutorials and built the second project "Clock" and learned some ways of creating/changing arrays through an article on Medium
+
+**Thoughts:** I've created 2 versions of the clock (one is analog and the second is digital) and the article was helpful in some points, but I think I need to learn more about Array.from and other methods. 
+
+**Link to work:** [JS30 Repo](https://github.com/Lartwel/JavaScript30) , [Medium Article](https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b)
+
+
+
+### Day 13: 26/07/2018 
+
+**Today's Progress**:  I learned some tutorials through the React Course and studied through the DOM course of Elzero and watched a talk on youtube for Wes Bos and it was about his journey of learning JS and related technologies
+
+**Thoughts:** I think I should read more in docs/books like Wes had done. It's not fun as tutorials, but they have the details that I'm looking for in some situations. They have better knowlege than video tutorials.
+
+**Link to work:** [React Course](https://www.udemy.com/react-2nd-edition) [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1)
+
+
