@@ -87,8 +87,8 @@
 
 **Today's Progress**:  I learned some tutorials through the React Course and studied through the DOM course of Elzero and watched a talk on youtube for Wes Bos and it was about his journey of learning JS and related technologies
 
-**Thoughts:** I think I should read more in docs/books like Wes had done. It's not fun as tutorials, but they have the details that I'm looking for in some situations. They have better knowlege than video tutorials.
+**Thoughts:** I think I should read more in docs/books like Wes had done. They're not fun as tutorials, but they have the details that I'm looking for in some situations. They have better knowledge than video tutorials.
 
-**Link to work:** [React Course](https://www.udemy.com/react-2nd-edition) [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1)
+**Link to work:** [React Course](https://www.udemy.com/react-2nd-edition),   [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [WesBos Talk](https://www.youtube.com/watch?v=klItciDmQFw)
 
 
