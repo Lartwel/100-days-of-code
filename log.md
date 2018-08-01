@@ -92,3 +92,27 @@
 **Link to work:** [React Course](https://www.udemy.com/react-2nd-edition),   [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [WesBos Talk](https://www.youtube.com/watch?v=klItciDmQFw)
 
 
+
+### Days 14-16 : 27-29/07/2018
+
+**Today's Progress: just surfed some articles and websites for web development
+
+**Thoughts:** I didn't code due to being too busy, but I'll add 3 days to the end of the challenge
+
+
+
+### Day 16: 30/07/2018 
+
+**Today's Progress**:  Finished some tasks of the Redux Section at FCC and read some articles
+
+**Thoughts:** I think that I need to postpone going through the 'Front-end Libraries' cert at FCC. I find the Redux section confusing and I think that I need to improve my React's skills more and more to understand how Redux made a difference and to build the projects in a better quality.
+
+
+
+### Day 17: 31/07/2018 
+
+**Today's Progress**:  Learned some DOM tutorials at Elzero Course and learned new stuff about ES6 through a cheatsheet
+
+**Thoughts:** I also watched a video tutorial that has recommended good resources for learning how to contribute to GitHub open source projects (that's helpful for getting a job too)
+
+**Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),   [ES6 Cheatsheet](https://devhints.io/es6),   [Video](https://www.youtube.com/watch?v=0GBY2rXRRb4)
