@@ -2,6 +2,7 @@
 
 ## The log of my #100DaysOfCode challenge. Started on [July 15, Saturday, 2018].
 
+* Note: I code more than 1 hour most of days in addition to learning/reading some stuff related to Web Development. The bad thing that I occasionally become very busy due to some works out of my control, but the day that I can't code in, I add its hours to another day or it'll be added to the end of the challenge
 
 ### Day 1: 14/07/2018
 
@@ -116,3 +117,14 @@
 **Thoughts:** I also watched a video tutorial that has recommended good resources for learning how to contribute to GitHub open source projects (that's helpful for getting a job too)
 
 **Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),   [ES6 Cheatsheet](https://devhints.io/es6),   [Video](https://www.youtube.com/watch?v=0GBY2rXRRb4)
+
+
+### Days 18-20: 3/08/2018 
+
+**Today's Progress**:  Studied DOM Course, practiced it, Completed the 'Basic JavaScript' secion, and finished the 'ES6' section at FCC Javascript Algorithms And Data Structures
+
+**Thoughts:** As I've mentioned before, I left the 'Front-end Libraries' Certification for some time till I learn Redux well. I had finished most of the Basic JavaScript section before completing it nowadays, but some of its took some time to solve. 
+
+**Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [FCC Javascript Algorithms And Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+
