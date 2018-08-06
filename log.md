@@ -121,10 +121,30 @@
 
 ### Days 18-20: 3/08/2018 
 
-**Today's Progress**:  Studied DOM Course, practiced it, Completed the 'Basic JavaScript' secion, and finished the 'ES6' section at FCC Javascript Algorithms And Data Structures
+**Today's Progress**:  Studied DOM Course, practiced it, Completed the 'Basic JavaScript' section, and finished the 'ES6' section at FCC Javascript Algorithms And Data Structures
 
 **Thoughts:** As I've mentioned before, I left the 'Front-end Libraries' Certification for some time till I learn Redux well. I had finished most of the Basic JavaScript section before completing it nowadays, but some of its took some time to solve. 
 
 **Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [FCC Javascript Algorithms And Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+
+### Days 21: 4/08/2018 
+
+**Today's Progress**:  Studied DOM Course, practiced it, and pracitced the 3rd project of JS30 & deployed the it.
+
+**Thoughts:** I think that my progress of the DOM course is slow. Although it's easy and helpful so I'll do my best to move forward.
+
+**Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [JS30 Repo](https://github.com/Lartwel/JavaScript30)
+
+
+
+### Days 22: 5/08/2018 
+
+**Today's Progress**:  Studied DOM Course and practiced it. I also read an article about a developer journey who had a full-time job and studied for 9 months and got a job.
+
+**Thoughts:** The artcile inspired me and it's an awesome motivation for learning more and more. That developer had the 100DaysOfCode challenge too.
+
+**Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [Article](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)
+
 
 
