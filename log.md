@@ -148,3 +148,14 @@
 
 
 
+### Days 23: 6/08/2018 
+
+**Today's Progress**: Learned through the React course and built some mini apps [Finished the 'Hello React' Section]
+
+**Thoughts:** I've spent a few hours learning more about Events, forms, and arrays in React. I am pleased with what I did today. The course is long as it's 30 hours video tutorials, but it's informative and the instructor is great at choosing examples and tasks so I am practicing what I'm learning and grasping information well.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+
