@@ -170,11 +170,11 @@
 
 ### Days 25: 8/08/2018 
 
-**Today's Progress**: I've bought a host at DigitalOcean and learned more about how to deploy websites there, handling an operating system, and I also learned more about marketing/branding myself online
+**Today's Progress**: I've bought a host at DigitalOcean and learned more about how to deploy websites there and handling an operating system there and I also learned more about marketing/branding myself online.
 
 **Thoughts:** As I'm planning for establishing my online business, I need to learn more about marketing and SEO. I've found great content at Learn to code with me website and I think I may check their podcast too.
 
-**Link to work:** [DigitalOcean Tutorial](https://www.youtube.com/watch?v=BUasdmczmMw),   [Building Portfolio Tutorial and Notes](https://s3.amazonaws.com/portfolio-dojo/Free+portfolio+course/portfolio-completion-checklist.pdf),   [Learn to code with me](http://learntocodewith.me)
+**Link to work:** [DigitalOcean Tutorial](https://www.youtube.com/watch?v=BUasdmczmMw),   [Building Portfolio Tutorial and Notes](https://s3.amazonaws.com/portfolio-dojo/Free+portfolio+course/portfolio-completion-checklist.pdf),   [Learn to code with me](https://learntocodewith.me/blog)
 
 
 
