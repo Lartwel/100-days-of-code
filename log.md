@@ -128,7 +128,7 @@
 **Link to work:** [Elzero DOM](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i&playnext=1&index=1),  [FCC Javascript Algorithms And Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
 
-### Days 21: 4/08/2018 
+### Day 21: 4/08/2018 
 
 **Today's Progress**:  Studied DOM Course, practiced it, and practiced the 3rd project of JS30 & deployed it.
 
@@ -138,7 +138,7 @@
 
 
 
-### Days 22: 5/08/2018 
+### Day 22: 5/08/2018 
 
 **Today's Progress**:  Studied DOM Course and practiced it. I also read an article about a developer journey who had a full-time job and studied for 9 months and got a job.
 
@@ -148,7 +148,7 @@
 
 
 
-### Days 23: 6/08/2018 
+### Day 23: 6/08/2018 
 
 **Today's Progress**: Learned through the React course and built some mini apps [Finished the 'Hello React' Section]
 
@@ -158,7 +158,7 @@
 
 
 
-### Days 24: 7/08/2018 
+### Day 24: 7/08/2018 
 
 **Today's Progress**: Started the new Section of the React course and learned more about components
 
@@ -168,7 +168,7 @@
 
 
 
-### Days 25: 8/08/2018 
+### Day 25: 8/08/2018 
 
 **Today's Progress**: I've bought a host at DigitalOcean and learned more about how to deploy websites there and handling an operating system there and I also learned more about marketing/branding myself online.
 
@@ -178,4 +178,10 @@
 
 
 
+### Days 26-28: 11/08/2018 
 
+**Today's Progress**: Learned how to install LAMP, WordPress, and caching the website that is build on Ubuntu Server.
+
+**Thoughts:** I'd like to improve my back-end knowlege as I'll need to add some features to my new website.
+
+**Link to work:** 
