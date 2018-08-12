@@ -180,8 +180,8 @@
 
 ### Days 26-28: 11/08/2018 
 
-**Today's Progress**: Learned how to install LAMP, WordPress, and caching the website that is build on Ubuntu Server.
+**Today's Progress**: Learned how to install LAMP, WordPress, and caching the website that is built on Ubuntu Server.
 
-**Thoughts:** I'd like to improve my back-end knowlege as I'll need to add some features to my new website.
+**Thoughts:** I spent some hours handling some problems appeared to me. I'd like to improve my back-end knowlege as I'll need to add some features to my new website.
 
-**Link to work:** 
+**Link to work:** [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04)
