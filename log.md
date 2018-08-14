@@ -96,7 +96,7 @@
 
 ### Days 14-16 : 27-29/07/2018
 
-**Today's Progress: just surfed some articles and websites for web development
+**Today's Progress:** just surfed some articles and websites for web development
 
 **Thoughts:** I didn't code due to being too busy, but I'll add 3 days to the end of the challenge
 
@@ -108,6 +108,7 @@
 
 **Thoughts:** I think that I need to postpone going through the 'Front-end Libraries' cert at FCC. I find the Redux section confusing and I think that I need to improve my React's skills more and more to understand how Redux made a difference and to build the projects in a better quality.
 
+**Link to work:** [FCC](https://www.freecodecamp.org/)
 
 
 ### Day 17: 31/07/2018 
