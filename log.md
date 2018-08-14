@@ -185,3 +185,24 @@
 **Thoughts:** I spent some hours handling some problems appeared to me. I'd like to improve my back-end knowlege as I'll need to add some features to my new website.
 
 **Link to work:** [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04)
+
+
+
+### Day 29: 12/08/2018 
+
+**Today's Progress**: Finished the [React Component] section of the course
+
+**Thoughts:** It was a helpful section and it explained how the stateful components of React works.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 30: 13/08/2018 
+
+**Today's Progress**: Started the [Stateless Function Components] Section. I've also read a few articles through the blog [Learn to code with me]
+
+**Thoughts:** I've finished most of the secion, just remaining 2 tutorials.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition),   [Learn to code with me](https://learntocodewith.me/blog)
+
