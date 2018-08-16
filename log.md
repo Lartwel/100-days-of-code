@@ -207,3 +207,22 @@
 
 **Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition),   [Learn to code with me](https://learntocodewith.me/blog)
 
+
+
+### Day 31: 14/08/2018 
+
+**Today's Progress**: Finished the [Stateless Function Components] Section and started the Webpack section.
+
+**Thoughts:** I spent a lot of time fixing a problem with webpack as it's supposed that it will make a live server for changes I make, but I discovered later that this option doesn't work anymore.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 32: 15/08/2018 
+
+**Today's Progress**: Learned how to make a free SSL certificate for my website and used Cloudflare in improving my website's performance and score at Google Speed Insight and gtmetrics.
+
+**Thoughts:** It didn't work properly at beginning, but the cloudflare plugin for wordpress fixed the issues
+
+**Link to work:**  [Creating SSL Cert for WP](https://www.smashingmagazine.com/2016/06/free-ssl-for-any-wordpress-website/)
