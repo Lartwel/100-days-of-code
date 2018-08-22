@@ -226,3 +226,63 @@
 **Thoughts:** It didn't work properly at beginning, but the cloudflare plugin for wordpress fixed the issues
 
 **Link to work:**  [Creating SSL Cert for WP](https://www.smashingmagazine.com/2016/06/free-ssl-for-any-wordpress-website/)
+
+
+
+### Day 33: 15/08/2018 
+
+**Today's Progress**: Finished the [Webpack section].
+
+**Thoughts:** I liked webpack, but I find it confusing at some points specially the configuration file's part. I'll dig for more tutorials about it for learning further details.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 34: 16/08/2018 
+
+**Today's Progress**: Started/Finished the [Using a Third-Party Component] and started the [Styling React] section.
+
+**Thoughts:** Adding SCSS to the webpack was helpful. I've already learned SASS before, but I've discovered in this section some built in functions there like darken and lighten ones.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition),   [SASS Functions](http://sass-lang.com/documentation/Sass/Script/Functions.html)
+
+
+
+### Day 35: 17/08/2018 
+
+**Today's Progress**: learned through the [Styling React] section.
+
+**Thoughts:** I've thougt I'll finish this section so quickly, but it's a 2 hrs video tutorials in addition to coding them.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 36: 18/08/2018 
+
+**Today's Progress**: Finished the [Styling React].
+
+**Thoughts:** ...
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 37: 19/08/2018 
+
+**Today's Progress**: Started the [React Router] Section.
+
+**Thoughts:** I found it pretty easy and their documentaion is well written with good examples
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 38: 20/08/2018 
+
+**Today's Progress**: Finished the [React Router] Section.
+
+**Thoughts:** There's a missing part which is using the React Router at a server, but I think it'll be explained later. I've finished about 40% of the 31hrs of the course( a super long course xD ), but I'm willing to go on with it and discovering new information.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
