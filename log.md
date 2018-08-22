@@ -286,3 +286,13 @@
 **Thoughts:** There's a missing part which is using the React Router at a server, but I think it'll be explained later. I've finished about 40% of the 31hrs of the course( a super long course xD ), but I'm willing to go on with it and discovering new information.
 
 **Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Day 39: 21/08/2018 
+
+**Today's Progress**: Learned more about Webpack and read an article about Local Storage in the browser
+
+**Thoughts:** I've just learned a few things about Webpack at [Dev Community](https://dev.to). I had a problem with on of the tutorials, but I kinda fixed it later. I loved dev.to website and found many amazing articles there. I didn't work a lot today so I'll double the time tomorrow.
+
+**Link to work:** [Webpack with SASS](https://dev.to/felipegalvao/simple-setup-for-a-react-application-with-webpack-4--css--sass-bef),  [Webpack Quickstart](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc),   [Local Storage Article](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
