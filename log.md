@@ -2,7 +2,8 @@
 
 ## The log of my #100DaysOfCode challenge. Started on [July 15, Saturday, 2018].
 
-* Note: I code more than 1 hour the most of days in addition to learning/reading some stuff related to Web Development. The bad thing that I occasionally become very busy due to some works out of my control, but the day that I can't code in, I add its hours to another day or it'll be added to the end of the challenge
+* Note: I code more than 1 hour the most of days in addition to learning/reading some stuff related to Web Development. The bad thing that I occasionally become very busy due to some works out of my control, but the day that I can't code in, I add its hours to another day or it'll be added to the end of the challenge.
+Days to add to the end of the challenge: Days 14-16(3days), Days 42-54(13 days)
 
 ### Day 1: 14/07/2018
 
@@ -296,3 +297,29 @@
 **Thoughts:** I've just learned a few things about Webpack at [Dev Community](https://dev.to). I had a problem with on of the tutorials, but I kinda fixed it later. I loved dev.to website and found many amazing articles there. I didn't work a lot today so I'll double the time tomorrow.
 
 **Link to work:** [Webpack with SASS](https://dev.to/felipegalvao/simple-setup-for-a-react-application-with-webpack-4--css--sass-bef),  [Webpack Quickstart](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc),   [Local Storage Article](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
+
+
+
+### Days 40-41: 23/08/2018
+
+**Today's Progress**: Started the [Redux] Section of the React course and finished most of it 
+
+**Thoughts:** There are some concepts of Redux that are not clear to me, but I think they'll be more clear when we reach the practical app videos.
+
+**Link to work:**  [React Course](https://www.udemy.com/react-2nd-edition)
+
+
+
+### Days 42-54(13 days) : 5/09/2018
+
+**Today's Progress:** will be added to the end of the challenge
+
+
+
+### Days 55-57: 8/09/2018
+
+**Today's Progress**: Learned/revised building Wordpress Themes and started coding my website's theme
+
+**Thoughts:** I had some proplems at the beginning because I haven't built wordpress themes since a long time, but I made what was required. There are still some parts of the theme need to be coded.
+
+**Link to work:**  [WordPress Theme Development](codex.wordpress.org/Theme_Development),   [Bootstrap WordPress Simple Theme made by Traversy Media](https://github.com/bradtraversy/wpbootstrap_theme)
